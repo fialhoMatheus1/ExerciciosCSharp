@@ -1,0 +1,7 @@
+C:\Users\matheus.vfialho\source\repos\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.csproj.AssemblyReference.cache
+C:\Users\matheus.vfialho\source\repos\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.csproj.CoreCompileInputs.cache
+C:\Users\matheus.vfialho\source\repos\ExerciciosTI14T\ExerciciosTI14T\bin\Debug\ExerciciosTI14T.exe.config
+C:\Users\matheus.vfialho\source\repos\ExerciciosTI14T\ExerciciosTI14T\bin\Debug\ExerciciosTI14T.exe
+C:\Users\matheus.vfialho\source\repos\ExerciciosTI14T\ExerciciosTI14T\bin\Debug\ExerciciosTI14T.pdb
+C:\Users\matheus.vfialho\source\repos\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.exe
+C:\Users\matheus.vfialho\source\repos\ExerciciosTI14T\ExerciciosTI14T\obj\Debug\ExerciciosTI14T.pdb
